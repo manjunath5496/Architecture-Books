@@ -6,71 +6,70 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(1).pdf" style="text-decoration:none;">Vaccines: A Biography</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(1).pdf" style="text-decoration:none;">Understanding Architecture Through Drawing</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(2).pdf" style="text-decoration:none;">Three Shots at Prevention: The HPV Vaccine and the Politics of Medicine's Simple Solutions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(2).pdf" style="text-decoration:none;">Building with Earth</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(3).pdf" style="text-decoration:none;">Vaccine Design: Methods and Protocols, Volume 2: Vaccines for Veterinary Diseases </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(4).pdf" style="text-decoration:none;">The Vaccine Book</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(5).pdf" style="text-decoration:none;">Design and Analysis of Vaccine Studies</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(6).pdf" style="text-decoration:none;">New Generation vaccines</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(7).pdf" style="text-decoration:none;">Vaccine Design, Methods and Protocols: Volume 1: Vaccines for Human Diseases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(3).pdf" style="text-decoration:none;">Drawing Architecture </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(4).pdf" style="text-decoration:none;">Smart Materials in Architecture, Interior Architecture and Design</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(5).pdf" style="text-decoration:none;">Fundamental Concepts of Architecture</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(6).pdf" style="text-decoration:none;">Modern Traditions: Contemporary Architecture in India</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(7).pdf" style="text-decoration:none;">History of Architecture</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(8).pdf" style="text-decoration:none;"> Rickettsiales: Biology, Molecular Biology, Epidemiology, and Vaccine Development </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(8).pdf" style="text-decoration:none;"> Basics Architecture 03: Architectural Design </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(9).pdf" style="text-decoration:none;">Dissolving Illusions: Disease, Vaccines, and the Forgotten History</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(9).pdf" style="text-decoration:none;">Blender 3D: Architecture, Buildings, and Scenery</a></li>
                               
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(10).pdf" style="text-decoration:none;">Franklin Pierce Law Center Educational Report: Patent Landscape of DNA Vaccines for HIV </a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(12).pdf" style="text-decoration:none;">Novel Approaches and Strategies for Biologics, Vaccines and Cancer Therapies</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(11).pdf" style="text-decoration:none;">New Vaccine Development: Establishing Priorities: VOLUME II: Diseases of Importance in Developing Countries</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(13).pdf" style="text-decoration:none;">The Immortal Life of Henrietta Lacks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(10).pdf" style="text-decoration:none;">Sketching for Architecture + Interior Design</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(12).pdf" style="text-decoration:none;">Brazil: Modern Architectures in History </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(11).pdf" style="text-decoration:none;">Introduction to Naval Architecture</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(13).pdf" style="text-decoration:none;">Blender 3D 2.49 Incredible Machines: Modeling, rendering, and animating realistic machines with Blender 3D</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(14).pdf" style="text-decoration:none;">Vaccine Analysis: Strategies, Principles, and Control</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(15).pdf" style="text-decoration:none;">Lyophilized Biologics and Vaccines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(14).pdf" style="text-decoration:none;">50 architecture ideas you really need to know</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(15).pdf" style="text-decoration:none;">The Architecture of Light </a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(16).pdf" style="text-decoration:none;">DNA Vaccines: Methods and Protocols</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(16).pdf" style="text-decoration:none;">USA: Modern Architectures in History </a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(17).pdf" style="text-decoration:none;">Vaccines, Autoimmunity, and the Changing Nature of Childhood Illness</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(17).pdf" style="text-decoration:none;">Dictionary of Islamic architecture</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(18).pdf" style="text-decoration:none;">Safety of Biologics Therapy: Monoclonal Antibodies, Cytokines, Fusion Proteins, Hormones, Enzymes,
-Coagulation Proteins, Vaccines, Botulinum Toxins</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(19).pdf" style="text-decoration:none;">Subunit Vaccine Delivery </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(18).pdf" style="text-decoration:none;">Architectural Patterns</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(19).pdf" style="text-decoration:none;">Structure As Architecture: A source book for architects and structural engineers </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(20).pdf" style="text-decoration:none;">Biologics to Treat Substance Use Disorders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(20).pdf" style="text-decoration:none;">30-second Architecture: The 50 Most Signicant Principles and Styles in Architecture, Each Explained in Half a Minute</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(21).pdf" style="text-decoration:none;">Molecular Vaccines: From Prophylaxis to Therapy, Volume 1</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(22).pdf" style="text-decoration:none;">Hepatitis B: The Virus, the Disease, and the Vaccine</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(23).pdf" style="text-decoration:none;">Between Hope and Fear: A History of Vaccines and Human Immunity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(21).pdf" style="text-decoration:none;">Architectural and Engineering Design Standards</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(22).pdf" style="text-decoration:none;">Building Information Modeling with Revit Architecture</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(23).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Art and Architecture</a></li>
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(24).pdf" style="text-decoration:none;">Ranking Vaccines: A Prioritization Software Tool: Phase II: Prototype of a Decision-Support System</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(24).pdf" style="text-decoration:none;">Structural Design for Architecture</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(25).pdf" style="text-decoration:none;">Vaccines for Invasive Fungal Infections: Methods and Protocols</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(26).pdf" style="text-decoration:none;">Malaria Vaccines: Methods and Protocols</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(27).pdf" style="text-decoration:none;">The Clinician's Vaccine Safety Resource Guide</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(25).pdf" style="text-decoration:none;">Understanding Architecture: An Introduction to Architecture and Architectural Theory</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(26).pdf" style="text-decoration:none;">ARCHITECTURE: DESIGN NOTEBOOK</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(27).pdf" style="text-decoration:none;">Architectural Rendering with 3ds Max and V-Ray</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(28).pdf" style="text-decoration:none;">The Vaccine-Friendly Plan</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(28).pdf" style="text-decoration:none;">Beautiful Architecture</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(29).pdf" style="text-decoration:none;">Cancer Vaccines: Methods and Protocols </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(29).pdf" style="text-decoration:none;">Architectural Design Elements </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(30).pdf" style="text-decoration:none;">Genetically Engineered Plants as a Source of Vaccines Against Wide Spread Diseases</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(30).pdf" style="text-decoration:none;">The Canadian Handbook of Practice for Architects</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(31).pdf" style="text-decoration:none;">Pediatric Vaccines and Vaccinations: A European Textbook</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(32).pdf" style="text-decoration:none;">Research and Development of Vaccines and Pharmaceuticals from Biotechnology</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(33).pdf" style="text-decoration:none;">Virus-like Particles in Vaccine Development</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(31).pdf" style="text-decoration:none;">Art and Architecture in the Islamic Tradition: Aesthetics, Politics and Desire in Early Islam </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(32).pdf" style="text-decoration:none;">A Dictionary of Architecture and Landscape Architecture</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(33).pdf" style="text-decoration:none;">The Fundamentals of Architecture</a></li> 
                    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(34).pdf" style="text-decoration:none;">Vaccine Free Prevention and Treatment of Infectious Contagious Disease With Homeopathy: A Manual for Practitioners and Consumers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(34).pdf" style="text-decoration:none;">The Innovative Use of Materials in Architecture and Landscape Architecture </a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(35).pdf" style="text-decoration:none;">Antiviral Agents, Vaccines and Immunotherapies</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(36).pdf" style="text-decoration:none;">Tumor Immunology and Cancer Vaccines</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(35).pdf" style="text-decoration:none;">The Professional Practice of Architectural Working Drawings</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(36).pdf" style="text-decoration:none;">Introduction to Indian Architecture</a></li> 
   
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(37).pdf" style="text-decoration:none;">Vaccine Technologies for Veterinary Viral Diseases: Methods and Protocols</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(38).pdf" style="text-decoration:none;">A Primer for Undergraduate Research From Groups and Tiles to Frames and Vaccines</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(39).pdf" style="text-decoration:none;">The politics of vaccination</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(37).pdf" style="text-decoration:none;">Statics and Strength of Materials for Architecture and Building Construction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(38).pdf" style="text-decoration:none;">101 Things I Learned in Architecture School</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(39).pdf" style="text-decoration:none;">Residential Interior Design: A Guide to Planning Spaces</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(40).pdf" style="text-decoration:none;">Microneedles for Drug and Vaccine Delivery and Patient Monitoring</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(41).pdf" style="text-decoration:none;">Vaccines for Pandemic Influenza</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(42).pdf" style="text-decoration:none;">DNA Vaccination / Genetic Vaccination </a></li>
