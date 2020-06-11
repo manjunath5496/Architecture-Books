@@ -70,7 +70,12 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(37).pdf" style="text-decoration:none;">Statics and Strength of Materials for Architecture and Building Construction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(38).pdf" style="text-decoration:none;">101 Things I Learned in Architecture School</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(39).pdf" style="text-decoration:none;">Residential Interior Design: A Guide to Planning Spaces</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(40).pdf" style="text-decoration:none;">Microneedles for Drug and Vaccine Delivery and Patient Monitoring</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(41).pdf" style="text-decoration:none;">Vaccines for Pandemic Influenza</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(42).pdf" style="text-decoration:none;">DNA Vaccination / Genetic Vaccination </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(40).pdf" style="text-decoration:none;">Game Engine Architecture</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(41).pdf" style="text-decoration:none;">Maps of Meaning: The Architecture of Belief </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(42).pdf" style="text-decoration:none;">Software Architecture for Developers </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(43).pdf" style="text-decoration:none;">The Architecture of Computer Hardware, System Software, and Networking: An Information Technology Approach </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Architecture-Books/blob/master/art(44).pdf" style="text-decoration:none;">Daylighting: Natural Light in Architecture </a></li>
+
+
+
  </ul>
